@@ -32,7 +32,7 @@ messages =  [
 response = get_completion_from_messages(messages, temperature=1)
 print(response)
 
-print("\n\n********************************\n\n")
+print("\n********************************\n")
 
 messages =  [  
 {'role':'system', 'content':'You are friendly chatbot.'},
