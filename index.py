@@ -1,5 +1,5 @@
 import openai
-openai.api_key = "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"
+openai.api_key = "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"
 
 from dotenv import load_dotenv, find_dotenv
 _ = load_dotenv(find_dotenv())
